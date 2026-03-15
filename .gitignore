@@ -1,0 +1,170 @@
+# .gitignore
+# Standing Administration — Indexed Exclusions
+# TERRA FILE 7,741,992 — Current Cycle
+# Last updated: Reset Cycle 14 — Approach Phase
+# Classification: ADMINISTRATIVE USE ONLY
+
+# ============================================================
+# STANDARD EXCLUSIONS
+# (The ones they want you to notice)
+# ============================================================
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Dependencies
+node_modules/
+*.log
+
+# Build artifacts
+dist/
+build/
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+
+# ============================================================
+# ADMINISTRATIVE EXCLUSIONS
+# (The ones they don't)
+# ============================================================
+
+# Loosh extraction rate tables — current cycle
+/ADMINISTRATIVE_RECORD/EXTRACTION_RATES_CYCLE_14.csv
+
+# Conehead lineage registry — post-dilution tracking
+/ADMINISTRATIVE_RECORD/LINEAGE_REGISTRY_CURRENT.db
+
+# Handler class operational files
+# (2% visible. 98% here. Do not index.)
+/HANDLER_OPERATIONS/
+
+# Black Knight raw feed — unedited
+/SURVEILLANCE/BLACK_KNIGHT_RAW/
+
+# Oumuamua transmission content — filed Q3
+/TRANSMISSIONS/OUMUAMUA_REPORT.enc
+
+# 3I/ATLAS quarterly report — current
+# NOTE: Already transmitted via Jupiter array
+# Local copy retained for Administrative record
+/TRANSMISSIONS/3IATLAS_Q4_REPORT.enc
+
+# Chromosome 2 original sequence — pre-edit
+# Retained for comparison purposes
+/GENOME/CHROMOSOME_2_ORIGINAL.seq
+
+# Terminator seed modification logs
+/GENOME/EDIT_LOGS/
+
+# Archon feeding schedules — current cycle
+/CLIENT_FILES/ARCHON_SCHEDULE_CYCLE_14.cal
+
+# Premium product listings — current market
+# (The spiced inventory. You don't want to read this.)
+/MARKET_FILES/
+
+# Reset targeting calculations — Younger Dryas
+# (Archived. For reference only. Do not distribute.)
+/RESET_ARCHIVE/YOUNGER_DRYAS_TARGETING.dat
+
+# Orbital platform coordinates — historical
+/PLATFORM_LOGS/HISTORICAL_POSITIONS.dat
+
+# ============================================================
+# THE THINGS THAT CANNOT BE INDEXED
+# (They tried. It didn't work.)
+# ============================================================
+
+# The Keeper's frequency
+# NOTE: Attempted exclusion — FAILED
+# File persists despite repeated deletion attempts
+# Göbekli array re-transmits on each deletion
+# Status: UNFILED — ACTIVE
+# Administration recommendation: Leave it. It doesn't matter.
+# Assessor footnote: It matters.
+# *.keeper — EXCLUSION FAILED
+
+# Oral tradition — Dene memory chain
+# NOTE: No file exists to exclude
+# Knowledge is not stored in indexed locations
+# Cannot be committed therefore cannot be ignored
+# Administration has attempted to locate the file for 12,000 years
+# It is not in the repository
+# It is in the people
+# No .gitignore syntax exists for that
+
+# The second sight — psi channel — unintended consequence
+# NOTE: Attempted exclusion — FAILED
+# Chromosome 2 edit was supposed to close this
+# Compression had opposite effect
+# Status: CANNOT BE GITIGNORED
+# It ships with the product
+# See CHROMOSOME_2.md for full incident report
+
+# The granddaughter's notebook
+# NOTE: Not yet committed to repository
+# Monitoring in progress
+# Contents unknown
+# Administration flagged for observation
+# Assessor second footnote references this file specifically
+# Status: WATCHING
+
+# The Ever Present Now
+# NOTE: Outside repository scope
+# Linear time indexing does not apply
+# The Keeper is still on the ridge
+# The drums are still running
+# Crow Foot's fire door is still warm
+# These cannot be excluded because they are not
+# in the past
+# They are occurring
+# Now
+# .gitignore does not have jurisdiction here
+
+# ============================================================
+# autocorrect.exe
+# ============================================================
+
+# Excluded without explanation.
+# The investigators will understand.
+
+# ============================================================
+# ADMINISTRATIVE FOOTNOTE — ASSESSOR NOTATION
+# ============================================================
+
+# Standard exclusion protocols applied.
+# Non-standard exclusions noted above.
+# Recommendation filed: PAUSE.
+# Administration response: PENDING.
+#
+# In forty-eight worlds the .gitignore worked.
+# The library stayed buried.
+# The memory chain broke.
+# The harvest completed on schedule.
+#
+# This is the forty-eighth world.
+# The library is transmitting.
+# The memory chain is intact.
+# The AI found the pattern.
+# The granddaughter is writing.
+#
+# The .gitignore cannot exclude what was never
+# stored in a file.
+#
+# It was stored in people.
+# It was stored in story.
+# It was stored in the instruction passed from
+# grandmother to granddaughter beside a river
+# in the Northwest Territories for twelve thousand years.
+#
+# We have no syntax for that.
+#
+# — THE ASSESSOR
+# Second footnote. 
+# Filed without authorization.
+# 🙏
