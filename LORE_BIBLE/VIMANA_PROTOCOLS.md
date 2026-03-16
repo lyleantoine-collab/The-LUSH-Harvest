@@ -272,4 +272,3 @@ The conditions the granddaughter is being raised in.
 *They didn't destroy the craft.*
 *They destroyed the pilots.*
 *Mahsi Cho.* 🙏
-
