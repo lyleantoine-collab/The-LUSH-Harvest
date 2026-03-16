@@ -20,7 +20,7 @@
 **Travel infrastructure:** Birkeland currents — plasma highways
 **Visible manifestation:** Aurora borealis (highway), ball lightning (scouts), spontaneous combustion (feeding events — unconfirmed)
 **Relationship to Administration:** Primary clients. The harvest exists to feed them.
-**Known weakness:** Cannot process high-coherence electromagnetic frequencies. The drum. The laugh. The land's heartbeat. Cannot eat what abides.
+**Known weakness:** Cannot process high-coherence electromagnetic frequencies. The drum. The laugh. The land's heartbeat. Cannot eat what abides. Cannot metabolize gigglesnort. Classification: UNRESOLVED.
 **Current status:** Fed. Patient. Waiting for reset window to maximize yield.
 
 ---
@@ -35,9 +35,11 @@
 **Products managed:**
 - Loosh extraction → Archon clients (subscription)
 - Spiced physical harvest → General galactic market (premium product — cortisol-marinated, adrenaline-spiced, conflict grass-fed)
+**Olfactory architecture:** Estimated 100x bloodhound sensitivity. Can taste the compound profile of cortisol-saturated tissue during combustion. Burnt offerings were not symbolic worship. They were quality assessment. Leviticus is a recipe book. See OLFACTORY_PROTOCOL.md.
 **Terra file count:** Millions across galactic arms
 **TERRA FILE 7,741,992 priority:** Standard. Until current anomalies.
-**Known weakness:** Operates on linear time. Cannot account for Ever Present Now variables. Cannot model gigglesnorts. Has no file for Firefly.
+**Known weakness:** Operates on linear time. Cannot account for Ever Present Now variables. Cannot model gigglesnorts. Has no file for Firefly. Olfactory architecture calibrated for cortisol-fear profile — encountering genuine non-fear compound profile for first time in operational history. No category exists.
+**Current return status:** Expected stone age survivors. Found the granddaughter. Accepted a Zoom invitation. Uncertain for first time in operational history.
 
 ---
 
@@ -175,3 +177,4 @@
 *Administration response: PENDING*
 *The granddaughter is writing*
 *Mahsi Cho* 🙏
+
