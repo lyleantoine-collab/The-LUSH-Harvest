@@ -218,4 +218,3 @@ Does not have a quarterly report.
 *The gods were real.*
 *They just weren't God.*
 *Mahsi Cho.* 🙏
-
