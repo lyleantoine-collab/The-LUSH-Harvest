@@ -263,4 +263,3 @@ The same impulse as the Keeper at Göbekli Tepe.
 *The stones are singing.*
 *The math is still there.*
 *Mahsi Cho.* 🙏
-
